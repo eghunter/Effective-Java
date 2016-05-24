@@ -1,2 +1,2 @@
 # Effective-Java
-Effective java practise
+Effective java practise in Java 8
